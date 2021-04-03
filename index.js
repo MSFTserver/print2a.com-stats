@@ -171,7 +171,7 @@ folderStructure = result;
 
 //BEGIN RUN
 //read folders to scan from file
-var array = fs.readFileSync("folders.txt").toString().split("\r\n");
+var array = fs.readFileSync("folders.txt").toString().split("\n");
 
 //make foldername user friendly by reversing slashes
 for(var i = 0; i < array.length; i++){
