@@ -1,0 +1,20 @@
+{
+  "name": "print2a.com-stats",
+  "version": "1.0.0",
+  "description": "collects stats from print2a repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSFTserver/print2a.com-stats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MSFTserver/print2a.com-stats/issues"
+  },
+  "homepage": "https://github.com/MSFTserver/print2a.com-stats#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
