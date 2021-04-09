@@ -145,7 +145,7 @@ function getLatestProjects(array){
 		newArray.push({
 			title: array[i].Name,
 			tags: `${new Date(array[i].Created)}\nDocs: ${array[i].Docs}, STL: ${array[i].STL}, STP: ${array[i].STEP}, Pics: ${array[i].Images}\nSize: ${array[i].Size}`,
-			link: `${defaultURL}/browse?folder=${array[i].FullPath.replace("../repo/print2a/","")}`
+			link: `${defaultURL}/browse?folder=${array[i].FullPath.replace("/mnt/volume_sfo2_01/repo/print2a/","")}`
 		})
 	}
 	return newArray
