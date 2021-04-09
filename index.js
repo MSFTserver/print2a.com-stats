@@ -50,6 +50,7 @@ function recFilterByExt(base2, ext2, files2, result2) {
 
 //makes array of files to get total size from
 const getAllFiles = function(dirPath, arrayOfFiles) {
+	console.log("DIRPATH",dirPath)
 	files = fs.readdirSync(dirPath);
 	arrayOfFiles = arrayOfFiles || [];
 	files.forEach(function(file) {
