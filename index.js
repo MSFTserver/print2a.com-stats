@@ -91,8 +91,8 @@ function createFolderStats(folderList){
 		let folderArray = fs.readdirSync(folderList[h]);
 		folderArray = folderArray.map(g => folderList[h] + "/" + g);
 		for (l in folderArray) {
-			console.log(folderArray[l]);
 			if (!folderList.includes(folderArray[l])){
+				console.log(folderArray[l]);
 				let folderStats = fs.statSync(folderArray[l]);
 				let folderSize = getTotalSize(folderArray[l]);
 				let folderTime = folderStats.mtimeMs;
