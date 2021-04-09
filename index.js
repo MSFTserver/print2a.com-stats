@@ -171,7 +171,7 @@ folderStructure = result;
 
 //BEGIN RUN
 //read folders to scan from file
-var folderList = fs.readFileSync("folders.txt").toString().split("\n");
+folderList = fs.readFileSync("folders.txt").toString().split("\n");
 
 //make Folder Structure to integrate folder stats
 createFolderStructure(folderList);
