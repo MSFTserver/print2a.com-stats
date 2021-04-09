@@ -80,6 +80,7 @@ const getTotalSize = function(directoryPath) {
 	const arrayOfFiles = getAllFiles(directoryPath);
 	let totalSize = 0;
 	arrayOfFiles.forEach(function(filePath) {
+		console.log(filePath)
 		totalSize += fs.statSync(filePath).size;
 	});
 	totalRepoSize += totalSize;
