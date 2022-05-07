@@ -180,8 +180,8 @@ createFolderStructure(folderList);
 //make folder stats to integrate with folder structure
 createFolderStats(folderList);
 
-let totalProjectFiles = recFilterByExt("../repo/print2a", excludeTypes).length;
-let totalFiles = recFilterByExt("../repo/print2a", /(gitattributes)/i).length;
+let totalProjectFiles = recFilterByExt("/mnt/volume_sfo2_01/repo/print2a", excludeTypes).length;
+let totalFiles = recFilterByExt("/mnt/volume_sfo2_01/repo/print2a", /(gitattributes)/i).length;
 let totalFolders = projectStats.length;
 let totalRepoSizeReadable = convertBytes(totalRepoSize);
 
