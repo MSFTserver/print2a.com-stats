@@ -189,8 +189,8 @@ let latestProjectsJSON = getLatestProjects(projectStats);
 
 latestProjectsJSON.unshift({
 	title: 'Latest Repo Statistics',
-	tags: `Total Projects: ${totalFolders}\nProject Files: ${totalProjectFiles}\nnot including filess with extensions\nmp3|mp4|mov|jpeg|png|jpg|jfif|gif|bmp|txt|svg|docx|md|html|sqlite|dng|pdf|js|gitattributes\nTotal Files: ${totalFiles}\nTotal Repo Size: ${totalRepoSizeReadable}`,
-	link: `#`
+	tags: `Total Projects: ${totalFolders}\nProject Files: ${totalProjectFiles}\nTotal Files: ${totalFiles}\nTotal Repo Size: ${totalRepoSizeReadable}`,
+	link: `https://print2a.com/latest`
 })
 
 let latestProjects = JSON.stringify(latestProjectsJSON)
