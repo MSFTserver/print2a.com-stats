@@ -180,14 +180,18 @@ createFolderStructure(folderList);
 //make folder stats to integrate with folder structure
 createFolderStats(folderList);
 
-//let totalProjectFiles = recFilterByExt("../repo/print2a", excludeTypes).length;
-//let totalFiles = recFilterByExt("../repo/print2a", /(gitattributes)/i).length;
-//let totalFolders = projectStats.length;
+let totalProjectFiles = recFilterByExt("../repo/print2a", excludeTypes).length;
+let totalFiles = recFilterByExt("../repo/print2a", /(gitattributes)/i).length;
+let totalFolders = projectStats.length;
+let totalRepoSizeReadable = convertBytes(totalRepoSize);
 
-let latestProjects = JSON.stringify(getLatestProjects(projectStats))
+let latestProjectsJSON = getLatestProjects(projectStats);
+
+latestProjectsJSON.unshift({
+	title: 'Latest Repo Statistics',
+	tags: `Total Projects: ${totalFolders}\nProject Files: ${totalProjectFiles}\nnot including filess with extensions\nmp3|mp4|mov|jpeg|png|jpg|jfif|gif|bmp|txt|svg|docx|md|html|sqlite|dng|pdf|js|gitattributes\nTotal Files: ${totalFiles}\nTotal Repo Size: ${totalRepoSizeReadable}`,
+	link: `#`
+})
+
+let latestProjects = JSON.stringify(latestProjectsJSON)
 fs.writeFileSync("latest.json", latestProjects)
-
-//console.log("Total Project Folders: " + totalFolders);
-//console.log("Total Project Files: " + totalProjectFiles);
-//console.log("Total Files: " + totalFiles);
-//console.log("Total Size: " + convertBytes(totalRepoSize))
