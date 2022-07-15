@@ -143,10 +143,18 @@ function getLatestProjects(array){
 	  return new Date(b.Created) - new Date(a.Created);
 	})
 	for (let i in array) {
+		let projectPath = array[i].FullPath.replace("/mnt/volume_sfo2_01/repo/print2a/","")
+		let projectTags = projectPath.split("/");
 		newArray.push({
 			title: array[i].Name,
-			tags: `${new Date(array[i].Created)}\nDocs: ${array[i].Docs}, STL: ${array[i].STL}, STP: ${array[i].STEP}, Pics: ${array[i].Images}\nSize: ${array[i].Size}`,
-			link: `${defaultURL}/browse?folder=${array[i].FullPath.replace("/mnt/volume_sfo2_01/repo/print2a/","")}`
+			created: new Date(array[i].Created),
+			tags: projectTags,
+			docs: array[i].Docs,
+			stl: array[i].STL,
+			stp: array[i].STEP,
+			pics: array[i].Images,
+			size: array[i].Size,
+			link: `${defaultURL}/browse?folder=${projectPath}`
 		})
 	}
 	return newArray
@@ -190,7 +198,7 @@ let latestProjectsJSON = getLatestProjects(projectStats);
 latestProjectsJSON.unshift({
 	title: 'Latest Repo Statistics',
 	tags: `Total Projects: ${totalFolders}\nProject Files: ${totalProjectFiles}\nTotal Files: ${totalFiles}\nTotal Repo Size: ${totalRepoSizeReadable}`,
-	link: `https://print2a.com/latest`
+	link: `#`
 })
 
 let latestProjects = JSON.stringify(latestProjectsJSON)
