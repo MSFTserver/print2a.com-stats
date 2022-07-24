@@ -154,7 +154,7 @@ function getLatestProjects(array){
 			stp: array[i].STEP,
 			pics: array[i].Images,
 			size: array[i].Size,
-			link: `${defaultURL}/browse?folder=${projectPath}`
+			link: `${defaultURL}/browse/${projectPath}`
 		})
 	}
 	return newArray
