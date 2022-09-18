@@ -65,6 +65,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Stocks/MP5
 /mnt/volume_sfo2_01/repo/print2a/Ammo/Modeled_rounds_collection
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/AP-9
+/mnt/volume_sfo2_01/repo/print2a/Home_Designed/BCAM-WS
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/FGC-9
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/Liberators
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/L-X22
@@ -92,6 +93,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Ruger
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Sig_Sauer
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson
+/mnt/volume_sfo2_01/repo/print2a/Pistols/Springfield_Armory
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Colt/1911
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G17
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G19
@@ -103,6 +105,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/MP_9
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/MP_Shield
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/SD9
+/mnt/volume_sfo2_01/repo/print2a/Pistols/Springfield_Armory/XD
 /mnt/volume_sfo2_01/repo/print2a/Rifles/10_22
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AK-47
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-10
