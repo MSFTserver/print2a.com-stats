@@ -113,6 +113,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-9
 /mnt/volume_sfo2_01/repo/print2a/Rifles/M-16
 /mnt/volume_sfo2_01/repo/print2a/Rifles/Misc
+/mnt/volume_sfo2_01/repo/print2a/Rifles/AK-47/Plastikov
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/BrickAR
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms/GhostFire
