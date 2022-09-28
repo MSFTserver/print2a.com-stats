@@ -67,6 +67,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/AP-9
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/BCAM-WS
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/FGC-9
+/mnt/volume_sfo2_01/repo/print2a/Home_Designed/the_Harlot
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/Liberators
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/L-X22
 /mnt/volume_sfo2_01/repo/print2a/Home_Designed/Marvel_Revolver
