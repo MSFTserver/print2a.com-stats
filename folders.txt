@@ -106,6 +106,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/MP_9
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/MP_Shield
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/SD9
+/mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/SD40
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Springfield_Armory/XD
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G19/XD1933
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G19/XD19x
