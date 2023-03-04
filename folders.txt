@@ -37,7 +37,6 @@
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/AKM
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/AR-15
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/ARK
-/mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/CETME-C
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/CZ_Scorpion_Evo
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/Misc
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Magazines/10_22
@@ -124,6 +123,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-10
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-9
+/mnt/volume_sfo2_01/repo/print2a/Rifles/CETME-C
 /mnt/volume_sfo2_01/repo/print2a/Rifles/M-16
 /mnt/volume_sfo2_01/repo/print2a/Rifles/Misc
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AK-47/Plastikov
