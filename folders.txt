@@ -130,7 +130,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/BrickAR
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/UBAR-9
-/mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/orca
+/mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Orca
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms/GhostFire
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms/Hellfire
 /mnt/volume_sfo2_01/repo/print2a/SMGs/CZ
