@@ -29,11 +29,15 @@
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Pistol
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Pistol/1911
+/mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Pistol/Beretta_21A
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Pistol/Misc
+/mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Pistol/Mustela_Plastico
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Pistol/MP_Bodyguard
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/AK-47
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/AKM
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/AR-15
+/mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/ARK
+/mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/CETME-C
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/CZ_Scorpion_Evo
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Grips/Rifle/Misc
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Magazines/10_22
@@ -52,6 +56,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Lower_Parts/Glock
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Lower_Parts/M-16
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Lower_Parts/Misc
+/mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Upper_Parts/10-22
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Upper_Parts/AK-47
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Upper_Parts/AP9
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Upper_Parts/AR
@@ -59,6 +64,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Upper_Parts/Glock
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Misc_Upper_Parts/Misc
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Stocks/10-22
+/mnt/volume_sfo2_01/repo/print2a/Accessories/Stocks/AK-47
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Stocks/AR-15
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Stocks/G36
 /mnt/volume_sfo2_01/repo/print2a/Accessories/Stocks/Misc
@@ -85,6 +91,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Beretta
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Colt
 /mnt/volume_sfo2_01/repo/print2a/Pistols/EAA
+/mnt/volume_sfo2_01/repo/print2a/Pistols/FN_America
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Heritage_Manufacturing
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Hi-Point
@@ -96,6 +103,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Springfield_Armory
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Colt/1911
+/mnt/volume_sfo2_01/repo/print2a/Pistols/FN_America/FN_FS
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G17
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G19
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G26
@@ -103,6 +111,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Glock/G43
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Ruger/Misc
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Ruger/SR9
+/mnt/volume_sfo2_01/repo/print2a/Pistols/Sig_Sauer/P320
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/MP_9
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/MP_Shield
 /mnt/volume_sfo2_01/repo/print2a/Pistols/Smith_and_Wesson/SD9
@@ -121,6 +130,7 @@
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/BrickAR
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/UBAR-9
+/mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/orca
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms/GhostFire
 /mnt/volume_sfo2_01/repo/print2a/Rifles/AR-15/Anderson-Firearms/Hellfire
 /mnt/volume_sfo2_01/repo/print2a/SMGs/CZ
