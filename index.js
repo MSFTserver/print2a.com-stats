@@ -143,7 +143,7 @@ function getLatestProjects(array){
 	  return new Date(b.Created) - new Date(a.Created);
 	})
 	for (let i in array) {
-		let projectPath = array[i].FullPath.replace("/mnt/volume_sfo2_01/repo/print2a/","")
+		let projectPath = array[i].FullPath.replace("/mnt/print2a-volume/print2a/","")
 		let projectTags = projectPath.split("/");
 		newArray.push({
 			title: array[i].Name,
@@ -188,8 +188,8 @@ createFolderStructure(folderList);
 //make folder stats to integrate with folder structure
 createFolderStats(folderList);
 
-let totalProjectFiles = recFilterByExt("/mnt/volume_sfo2_01/repo/print2a", excludeTypes).length;
-let totalFiles = recFilterByExt("/mnt/volume_sfo2_01/repo/print2a", /(gitattributes)/i).length;
+let totalProjectFiles = recFilterByExt("/mnt/print2a-volume/print2a", excludeTypes).length;
+let totalFiles = recFilterByExt("/mnt/print2a-volume/print2a", /(gitattributes)/i).length;
 let totalFolders = projectStats.length;
 let totalRepoSizeReadable = convertBytes(totalRepoSize);
 
